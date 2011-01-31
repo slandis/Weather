@@ -7,8 +7,12 @@ graph of the history.
 WHAT YOU WILL NEED:
 Rgraph  (a very nice HTML5 graphing library) placed in js/
 SQLite3 Just install and there you are
+Perl Modules Needed: XML::Simple, Date::Parse, DBI
 
-First, unpack RGraph into js/ and follow any instructions
+First, install the needed PERL modules via CPAN or your package
+manager if your distribution has them.
+
+Then unpack RGraph into js/ and follow any instructions
 for installation. Second, fire up sqlite3 and create the
 database in table.sql (hint: cat table.sql | sqlite3 weather.db)
 
@@ -20,7 +24,7 @@ the magic begin.
 Okay, it's not magic. But it works for what I want it to do.
 If you have any improvements or comments, drop me a line.
 
-This program and all files includes with it are
+This program and all files included with it are
 Copyright 2008, 2009, 2010 and 2011 Shaun Landis
 <slandis@gmail.com>
 

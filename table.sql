@@ -1,3 +1,6 @@
+; table.sql - Copyright 2008, 2009, 2010, and 2011                      
+; Shaun Landis <slandis@gmail.com>
+;
 ; This file is part of weather-graph.
 ;
 ; weather-graph is free software: you can redistribute it and/or modify
